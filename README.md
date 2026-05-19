@@ -19,3 +19,19 @@ Dependency Injection: Inyección externa de dependencias.
 Observer: Notificación automática de cambios de estado.
 
 Builder: Construcción paso a paso de objetos complejos.
+
+Factory: Creación de objetos sin especificar la clase concreta.
+
+Decorator: Agregar comportamiento a objetos dinámicamente.
+
+Command: Encapsular peticiones como objetos independientes.
+
+Interpreter: Evaluar expresiones mediante gramática representada en clases.
+
+Mediator: Centralizar comunicación entre objetos.
+
+Memento: Guardar y restaurar estado sin violar encapsulación.
+
+Prototype: Crear nuevos objetos clonando existentes.
+
+Visitor: Agregar operaciones sin modificar clases de elementos.
